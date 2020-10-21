@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e3dc43"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context=".Activities.FriendsActivity">
+
+
+    <TextView
+        android:id="@+id/statusBluetoothTv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textColor="#000"
+        android:text="" />
+
+    <ImageView
+        android:id="@+id/bluetoothIv"
+        android:layout_width="75dp"
+        android:layout_height="65dp"
+        android:src="@drawable/ic_bluetooth_black_24dp" />
+
+    <Button
+        android:id="@+id/onBtn"
+        android:layout_width="110dp"
+        android:layout_height="34dp"
+        android:background="@drawable/reg_btn_style"
+        android:text="TURN on"
+        android:textColor="#0fd4dc" />
+
+    <Button
+        android:id="@+id/offBtn"
+        android:layout_width="110dp"
+        android:layout_height="34dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/reg_btn_style"
+        android:text="TURN off"
+        android:textColor="#0fd4dc" />
+
+    <Button
+        android:id="@+id/discoverableBtn"
+        android:layout_width="110dp"
+        android:layout_height="34dp"
+        android:background="@drawable/reg_btn_style"
+        android:layout_marginTop="20dp"
+        android:text="Discoverable"
+        android:textColor="#0fd4dc" />
+
+
+</LinearLayout>

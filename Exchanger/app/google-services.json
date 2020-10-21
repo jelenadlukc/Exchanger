@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "778008699231",
+    "firebase_url": "https://stickerexchanger.firebaseio.com",
+    "project_id": "stickerexchanger",
+    "storage_bucket": "stickerexchanger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778008699231:android:612e2ab04dbfec12",
+        "android_client_info": {
+          "package_name": "com.example.jelen.exchanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778008699231-9b0189qoo2k211pogri1406t0b3ejt5e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jelen.exchanger",
+            "certificate_hash": "28b1de1c0160f95eb0f6442bb600757a99f928e4"
+          }
+        },
+        {
+          "client_id": "778008699231-br38cshfeqqdd0l2qeqohbdotqlnsemt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIQTWj-sBSLsJVf-A0HHXKEIFbPHTpJYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778008699231-br38cshfeqqdd0l2qeqohbdotqlnsemt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
